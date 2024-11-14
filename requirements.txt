@@ -1,0 +1,22 @@
+langchain_community
+langchain-openai
+langchain
+ipykernel #if we want to work with .ipynb files here, then we need to install this.
+python-dotenv #to import everything written in .env file as key value pair into .py or .ipynb project you need to install this
+pypdf
+bs4
+arxiv
+pymupdf
+langchain_text_splitters
+#langchain_openai
+chromadb
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+langchain_chroma
+beautifulsoup4
+langchain_groq
+fastapi
+uvicorn
+langserve
+sse_starlette
